@@ -1,7 +1,7 @@
 # Rapid Data Exploration With Pandas
 <img src="img/logo_white_bkg_small.png" width="200" align="left" >
 
-### Rapid Data Exploration With Pandas presented by GTK Cyber
+### Data Visualization presented by GTK Cyber
 
 GTK Cyber [www.gtkcyber.com](https://www.gtkcyber.com) was founded to bridge the gap between Data Science and Cyber Security and not
 only provide high standard hands-on trainings, but introduce students to the most cutting-edge technologies and advancements in artificial intelligence,
@@ -50,29 +50,12 @@ Solutions to all challenges are within the ```answers``` folder (also contains a
 Notebooks/Scripts/Exercises and Data
 
 - **notebooks/**
-    - Worksheet 1.1 - Working with One Dimensional Data.ipynb
-    - Worksheet 1.2 - Exploring One Dimensional Data.ipynb
-    - Worksheet 2.1 - Working with Two Dimensional Data.ipynb
-    - Worksheet 2.2 - Exploratory Data Analysis.ipynb
-
-
+    - Worksheet 3 - Data Visualization.ipynb
 
 - **answers/**
 
-    - Worksheet 1.1 - Working with One Dimensional Data - Answers.ipynb
-    - Worksheet 1.2 - Exploring One Dimensional Data - Answers.ipynb
-    - Worksheet 2.1 - Exploring Two Dimensional Data - Answers.ipynb
-    - Worksheet 2.2 - Exploratory Data Analysis - Answers.ipynb
-
+    - Worksheet 3 - Data Visualization.ipynb
     
-    
-
-- recommended readings
-
-    - [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
-    - [Data Science for Business](http://shop.oreilly.com/product/0636920028918.do)
-    - [Creating a Data-Driven Organization](http://shop.oreilly.com/product/0636920035848.do)
-    - [Data-Driven Security](http://datadrivensecurity.info/)
 
     
 - **data/**
